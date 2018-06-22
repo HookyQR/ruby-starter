@@ -1,0 +1,31 @@
+{
+    "name": "ruby-starter",
+    "displayName": "Ruby Starter Pack",
+    "description": "Extensions of interest for ruby devs",
+    "version": "0.0.1",
+    "publisher": "HookyQR",
+    "icon": "ruby.png" ,
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [
+      "robertohuertasm.vscode-icons",
+      "shardulm94.trailing-spaces",
+      "rebornix.ruby",
+      "ryu1kn.partial-diff",
+      "mkaufman.htmlhint",
+      "eamodio.gitlens",
+      "dbaeumer.vscode-eslint",
+      "craigmaslowski.erb",
+      "deerawan.vscode-dash",
+      "alexkrechik.cucumberautocomplete",
+      "streetsidesoftware.code-spell-checker"
+    ],
+    "repository": {
+      "type": "github",
+      "url": "https://github.com/HookyQR/ruby-starter.git"
+    }
+}
