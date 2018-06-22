@@ -2,9 +2,13 @@
     "name": "ruby-starter",
     "displayName": "Ruby Starter Pack",
     "description": "Extensions of interest for ruby devs",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "HookyQR",
-    "icon": "ruby.png" ,
+    "icon": "ruby.png",
+    "galleryBanner": {
+      "color": "#866666",
+      "theme": "light"
+    },
     "engines": {
         "vscode": "^1.24.0"
     },
@@ -25,7 +29,7 @@
       "streetsidesoftware.code-spell-checker"
     ],
     "repository": {
-      "type": "github",
+      "type": "git",
       "url": "https://github.com/HookyQR/ruby-starter.git"
     }
 }
